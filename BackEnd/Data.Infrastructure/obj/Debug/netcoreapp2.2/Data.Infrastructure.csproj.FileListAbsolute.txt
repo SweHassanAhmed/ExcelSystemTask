@@ -1,0 +1,16 @@
+D:\ITI\TasksForJobs\ExcelTask\BackEnd\Data.Infrastructure\bin\Debug\netcoreapp2.2\Data.Infrastructure.deps.json
+D:\ITI\TasksForJobs\ExcelTask\BackEnd\Data.Infrastructure\bin\Debug\netcoreapp2.2\Data.Infrastructure.dll
+D:\ITI\TasksForJobs\ExcelTask\BackEnd\Data.Infrastructure\bin\Debug\netcoreapp2.2\Data.Infrastructure.pdb
+D:\ITI\TasksForJobs\ExcelTask\BackEnd\Data.Infrastructure\obj\Debug\netcoreapp2.2\Data.Infrastructure.csprojAssemblyReference.cache
+D:\ITI\TasksForJobs\ExcelTask\BackEnd\Data.Infrastructure\obj\Debug\netcoreapp2.2\Data.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ITI\TasksForJobs\ExcelTask\BackEnd\Data.Infrastructure\obj\Debug\netcoreapp2.2\Data.Infrastructure.AssemblyInfoInputs.cache
+D:\ITI\TasksForJobs\ExcelTask\BackEnd\Data.Infrastructure\obj\Debug\netcoreapp2.2\Data.Infrastructure.AssemblyInfo.cs
+D:\ITI\TasksForJobs\ExcelTask\BackEnd\Data.Infrastructure\obj\Debug\netcoreapp2.2\Data.Infrastructure.dll
+D:\ITI\TasksForJobs\ExcelTask\BackEnd\Data.Infrastructure\obj\Debug\netcoreapp2.2\Data.Infrastructure.pdb
+D:\ITI\TasksForJobs\ExcelTask\BackEnd\Data.Infrastructure\bin\Debug\netcoreapp2.2\Data.Configuration.dll
+D:\ITI\TasksForJobs\ExcelTask\BackEnd\Data.Infrastructure\bin\Debug\netcoreapp2.2\Data.dll
+D:\ITI\TasksForJobs\ExcelTask\BackEnd\Data.Infrastructure\bin\Debug\netcoreapp2.2\Model.dll
+D:\ITI\TasksForJobs\ExcelTask\BackEnd\Data.Infrastructure\bin\Debug\netcoreapp2.2\Data.pdb
+D:\ITI\TasksForJobs\ExcelTask\BackEnd\Data.Infrastructure\bin\Debug\netcoreapp2.2\Model.pdb
+D:\ITI\TasksForJobs\ExcelTask\BackEnd\Data.Infrastructure\bin\Debug\netcoreapp2.2\Data.Configuration.pdb
+D:\ITI\TasksForJobs\ExcelTask\BackEnd\Data.Infrastructure\obj\Debug\netcoreapp2.2\Data.Infrastructure.csproj.CopyComplete

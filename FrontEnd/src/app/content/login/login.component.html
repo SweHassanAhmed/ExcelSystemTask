@@ -1,0 +1,7 @@
+<br>
+<form #FormRef="ngForm" (ngSubmit)="CheckUserData(FormRef)">
+  <div class="form-group">
+    <input type="text" class="form-control" [ngModelOptions]="{standalone: true}" [(ngModel)]="user.UserName" id="UserName" placeholder="Just Type Any UserName Like -- Admin --">
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>

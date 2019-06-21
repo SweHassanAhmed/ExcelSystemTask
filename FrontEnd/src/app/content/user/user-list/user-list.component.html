@@ -1,0 +1,26 @@
+
+
+
+<button [routerLink]="['/users/add']" class="btn btn-block btn-success">Add New User</button>
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let user of users">
+            <th>{{user.UserID}}</th>
+            <th>{{user.UserName}}</th>
+            <th>
+                <button [routerLink]="['/users/edit',user.UserID]">Edit</button>
+                <button (click)="DeleteUser(user.UserID)">Delete</button>
+            </th>
+        </tr>
+    </tbody>
+
+</table>
+
+<button class="btn btn-block btn-success" (click)="logout()">LogOut</button>
